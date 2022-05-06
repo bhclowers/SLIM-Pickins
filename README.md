@@ -2,6 +2,7 @@
 Supporting scripts for the design and layout of planar ion guides.
 
 <center><img src="notebooks\TurnLayout.png" width=600 height=500 /></center>
+SLIM layout animation created using the enclosed notebooks.
 <center><img src="notebooks\WSU.gif" width=500 height=200 /></center>
 
 
