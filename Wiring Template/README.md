@@ -1,0 +1,1 @@
+### Example KiCAD 6.0 File containing a wiring template for the KiCAD libraries included in this repository.  To be clear, this is not an actually a SLIM board but the common wiring templates used via the copy/paste and grouping functions. 
