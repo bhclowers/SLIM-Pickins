@@ -12,6 +12,6 @@ The precise wiring of the tracks is ultimately left to the user, however, this t
 SLIM layout animation created using the enclosed notebooks.
 <center><img src="notebooks\WSU.gif" width=500 height=200 /></center>
 
-These research products were developed with the support of the [NIGMS](https://www.nigms.nih.gov/) R01-GM140129
+These research products were developed with the support of the [NIGMS](https://www.nigms.nih.gov/) R01-GM140129. The examples provided are intended for research purposes only.
 
 [![License: LGPL v3](https://img.shields.io/badge/License-LGPL_v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
